@@ -17,5 +17,10 @@ namespace Hello_World
             InitializeComponent();
             MessageBox("Hello World");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
