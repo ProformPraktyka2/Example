@@ -15,6 +15,7 @@ namespace Hello_World
         public Form1()
         {
             InitializeComponent();
+            MessageBox("Hello World");
         }
     }
 }
